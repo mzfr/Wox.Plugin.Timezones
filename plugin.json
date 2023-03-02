@@ -1,0 +1,12 @@
+{
+  "ID": "97303f6f2b70e5a965c8445f456920f4",
+  "ActionKeyword": "tz",
+  "Name": "TimeZoneConvertor",
+  "Description": "An wox plugin to convert time between different timezone",
+  "Author": "mzfr",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://github.com/mzfr/Wox.Plugin.Timezones",
+  "IcoPath": "Images\\clock.png",
+  "ExecuteFileName": "time_convertor.py"
+}
